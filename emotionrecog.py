@@ -6,7 +6,7 @@ import numpy as np
 
 # parameters for loading data and images
 detection_model_path = 'C:\\Users\\nandi\\haarcascade_frontalface_default.xml'
-emotion_model_path = 'C:\\Users\\nandi\\Downloads\\_mini_XCEPTION.102-0.66.hdf5'
+emotion_model_path = 'C:\\Users\\nandi\\Downloads\\my_model.h5'
 
 # hyper-parameters for bounding boxes shape
 # loading models
